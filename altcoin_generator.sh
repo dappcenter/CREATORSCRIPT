@@ -16,8 +16,8 @@
 # change the following variables to match your new coin
 COIN_NAME="Gift Earn Coin"
 COIN_UNIT="geC"
-# 42 million coins at total (litecoin total supply is 84000000)
-TOTAL_SUPPLY=990000000
+# 84 million coins at total (litecoin total supply is 84000000)
+TOTAL_SUPPLY=84000000
 MAINNET_PORT="54321"
 TESTNET_PORT="54322"
 PHRASE="Some newspaper headline that describes something that happened today"
