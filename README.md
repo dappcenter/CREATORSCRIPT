@@ -1,4 +1,4 @@
-# Altcoin Generator
+# Creator Script - Altcoin Generator
 Easiest way to create your own cryptocurrency.
 
 ## What does this script do?
@@ -66,5 +66,4 @@ bash altcoin_generator.sh clean_up
 ## Can I help the project?
 Sure. You can either submit patches, or make a donation if you found this project useful:
 
-LTC: Lcaey9FP2zdu4C9TSVffDG1DuKh78yCDYT
-BTC: 1BB44xSWSHwgM2AMP7MScqk2CALuo6A6UY
+Contact: +91 7331103393
