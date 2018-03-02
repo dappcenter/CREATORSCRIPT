@@ -14,10 +14,10 @@
 # CHAIN variable below
 
 # change the following variables to match your new coin
-COIN_NAME="MyCoin"
-COIN_UNIT="MYC"
+COIN_NAME="Gift Earn Coin"
+COIN_UNIT="geC"
 # 42 million coins at total (litecoin total supply is 84000000)
-TOTAL_SUPPLY=42000000
+TOTAL_SUPPLY=990000000
 MAINNET_PORT="54321"
 TESTNET_PORT="54322"
 PHRASE="Some newspaper headline that describes something that happened today"
@@ -48,7 +48,7 @@ COIN_NAME_LOWER=$(echo $COIN_NAME | tr '[:upper:]' '[:lower:]')
 COIN_NAME_UPPER=$(echo $COIN_NAME | tr '[:lower:]' '[:upper:]')
 DIRNAME=$(dirname $0)
 DOCKER_NETWORK="172.18.0"
-DOCKER_IMAGE_LABEL="newcoin-env"
+DOCKER_IMAGE_LABEL="globalearncoin-env"
 OSVERSION="$(uname -s)"
 
 docker_build_image()
