@@ -12,6 +12,7 @@
 # By default the script uses the regtest network, which can mine blocks
 # instantly. If you wish to switch to the main network, simply change the 
 # CHAIN variable below
+# Author: Ravi Sasank Nuthakki
 
 # change the following variables to match your new coin
 COIN_NAME="Gift Earn Coin"
