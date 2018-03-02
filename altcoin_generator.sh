@@ -20,7 +20,7 @@ COIN_UNIT="geC"
 TOTAL_SUPPLY=84000000
 MAINNET_PORT="54321"
 TESTNET_PORT="54322"
-PHRASE="Some newspaper headline that describes something that happened today"
+PHRASE="This is a very advanced system with highly sophisticted stucture of cryptography for GEC Coin"
 # First letter of the wallet address. Check https://en.bitcoin.it/wiki/Base58Check_encoding
 PUBKEY_CHAR="20"
 # number of blocks to wait to be able to spend coinbase UTXO's
