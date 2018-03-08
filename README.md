@@ -66,4 +66,4 @@ bash altcoin_generator.sh clean_up
 ## Can I help the project?
 Sure. You can either submit patches, or make a donation if you found this project useful:
 
-Contact: N RAVI SASANK +91 7331103393
+Contact: N RAVI SASANK +91
